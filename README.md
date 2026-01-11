@@ -5,15 +5,15 @@
 ## **📖 Table of Contents**
 
 1. [Project Overview](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#project-overview)
-2. [Key Features](https://github.com/VishvamJoshi/TT_Maker/?tab=readme-ov-file#key-features)
-3. [Tech Stack](https://github.com/VishvamJoshi/TT_Maker/?tab=readme-ov-file#tech-stack)
-4. [System Architecture](https://github.com/VishvamJoshi/TT_Maker/?tab=readme-ov-file#system-architecture)
-5. [Algorithm & Logic](https://github.com/VishvamJoshi/TT_Maker/?tab=readme-ov-file#algorithm--logic)
-6. [Setup & Installation](https://github.com/VishvamJoshi/TT_Maker/?tab=readme-ov-file#setup--installation)
-7. [API Reference](https://github.com/VishvamJoshi/TT_Maker/?tab=readme-ov-file#api-reference)
-8. [Usage Workflow](https://github.com/VishvamJoshi/TT_Maker/?tab=readme-ov-file#usage-workflow)
-9. [Future Scope](https://github.com/VishvamJoshi/TT_Maker/?tab=readme-ov-file#future-scope)
-10. [Team](https://github.com/VishvamJoshi/TT_Maker/?tab=readme-ov-file#team)
+2. [Key Features](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#key-features)
+3. [Tech Stack](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#tech-stack)
+4. [System Architecture](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#system-architecture)
+5. [Algorithm & Logic](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#algorithm--logic)
+6. [Setup & Installation](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#setup--installation)
+7. [API Reference](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#api-reference)
+8. [Usage Workflow](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#usage-workflow)
+9. [Future Scope](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#future-scope)
+10. [Team](https://github.com/rushilkevadiya/TT_Maker/?tab=readme-ov-file#team)
 
 ---
 
@@ -183,4 +183,5 @@ Developed by students of **Sarvajanik College of Engineering and Technology**:
 - Vishvam Joshi
 - Rushil Kevadiya
 - Jeel Maniya
+
 
